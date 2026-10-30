@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsuzuraburumi",
  "yomi": "つづらぶみ",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（歌文集の歌の部）",
+  "era": "享和2年（1802）秋序",
+  "author": "上田秋成（1734〜1809）",
+  "desc": "上田秋成の歌文集『藤簍冊子』のうち歌の部。秋成が折々に紙の端などに書きつけた歌や文を集め、本人が選んだものと附言にいう。"
+ },
  "editions": [
   {
    "pid": "993384",
